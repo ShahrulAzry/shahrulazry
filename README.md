@@ -1,5 +1,4 @@
-### Hi there 👋
-
+<img src= "https://github.com/ShahrulAzry/shahrulazry/blob/main/header.png" alt="header image">
 <!--
 **ShahrulAzry/shahrulazry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
